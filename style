@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Curriculum Vitae</title>
-</head>
-<body>
-	<div>			
+<div>			
 		<span>
 			<h1>Martini Adeboye Mabifa</h1>
 			<Address>
@@ -102,7 +96,4 @@
 	<div>
     	<strong>REFEREE</strong>
     		<p>Provide upon request</p>
-	</div><!-- This is the referee section of the cv-->
-
-</body>
-</html>
+	</div><!-- This is the referee section-->
