@@ -158,5 +158,32 @@
     		<p>Provide upon request</p>
 		</div>
 	 </div>
+	 <div class="form">
+	 	<form action="action_page.php">
+	 		<h1>Kindly Contact Me </h1>
+	 		<p>I look forward to hear from you</p>
+ 			<label for="name">Name :</label>
+ 			<input type="text" id="name" name="name" minlength="4" placeholder="Your full name..." required><br>
+
+ 			<label for="email">Email :</label>
+ 			<input type="text" id="email" name="email" placeholder="Your email address..." required><br>
+
+ 			<label for="title">Title :</label>
+ 			<select name="titlelist" id="titlelist"form="contact form" required>
+ 				<option value="select">Select</option>
+ 				<option value="Mr">Mr</option>
+ 		 		<option value="Miss">Miss</option>
+ 		 		<option value="Master">Master</option>
+ 		 		<option value="Mrs">Mrs</option>
+			</select><br>
+
+ 			<textarea name="messagecontent" id="message" cols="100" rows="10" minlength="20" placeholder="leave message here.."></textarea>
+ 			<br>
+
+
+
+ 			<input type="submit" name="submit" value="submit" class="submit">
+		</form>
+	 </div>
 </body>
 </html>
