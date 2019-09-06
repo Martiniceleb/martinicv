@@ -180,25 +180,25 @@ body {
 	height: 30px;
 	width: 300px;
 	border-radius: 10px;
-	margin: 0px 0px 0px 30px;
+	margin: 0px 0px 0px 35px;
 }
 #email {
 	height: 30px;
 	width: 300px;
 	border-radius: 10px;
-	margin: 30px 30px;
+	margin: 30px 35px;
 }
 #titlelist {
 	height: 30px;
 	width: 300px;
 	border-radius: 10px;
-	margin: 0px 40px;
+	margin: 0px 45px;
 }
 #message {
 	height: 200px;
 	width: 300px;
 	border-radius: 10px;
-	margin: 30px 80px;
+	margin: 30px 85px;
 }
 
 .form h1, .form p {
@@ -218,6 +218,9 @@ body {
 	border: 1px solid;
 	border-radius: 5px;
 }
-.submit : hover {
-	background: #000000;
+.submit:hover {
+	background: #ffffff;
+}
+label {
+	font-weight: bold;
 }
