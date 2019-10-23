@@ -1,0 +1,36 @@
+body{
+	width: 100vw;
+}
+.navbar-default {
+	width: 100%;
+	background: white;
+}
+div .navbar-header {
+	width: 30%;
+	float: left;
+}
+.navbar-nav {
+	width: 70%;
+	float: right !important;
+}
+.btn {
+	background: green;
+}
+.tab1{
+	padding-left: 100px;
+	float: left;
+	padding-top: 50px;
+	width: 50%;
+}
+.tab2 {
+	float: left;
+	padding-right: 20px;
+	width: 50%;
+}
+img {
+	width: 551px;
+	height: 439.6px;
+}
+ul {
+	align-content: right;
+}
